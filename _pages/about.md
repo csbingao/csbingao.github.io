@@ -16,6 +16,13 @@ Computer architecture/Systems; Networking; Geo-distributed Data Analytics; Mobil
 Publications
 ======
 
+Conferences
+------
+1. Bin Gao, Zhi Zhou , Fangming Liu, Fei Xu, "Winning at the Starting Line: Joint Network Selection and Service Placement for Mobile Edge Computing", in the Proceedings of IEEE INFOCOM, Paris, France, 2019.
+
+Journals
+------
+1. Bin Gao, Zhi Zhou, Fangming Liu, Fei Xu, Bo Li, "An Online Framework for Joint Network Selection and Service Placement in Mobile Edge Computing", IEEE Transaction on Mobile Computing (TMC).
 
 For more info
 ------
