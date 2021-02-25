@@ -26,11 +26,11 @@ Journals
 
 Awards
 ======
-- Excellent Graduate
-- National Scholarship Ministry of Education of the People's Republic of China
-- Merit Student Huazhong University of Science and Technology
-- Huawei Scholarship
-- Excellent Student Cadre
-- First-class Academic Scholarship
-- Excellent Graduate
-- National Encouragement Scholarship
+- Excellent Graduate, Huazhong University of Science and Technology, 2020
+- National Scholarship, Ministry of Education of the People's Republic of China, 2019
+- Merit Student, Huazhong University of Science and Technology, 2019
+- Huawei Scholarship, Huawei Technologies Co., Ltd., 2018 
+- Excellent Student Cadre, Huazhong University of Science and Technology, 2018
+- First-class Academic Scholarship, Huazhong University of Science and Technology, 2017-2020
+- Excellent Graduate, Huazhong University of Science and Technology, 2017
+- National Encouragement Scholarship, Huazhong University of Science and Technology, 2016
