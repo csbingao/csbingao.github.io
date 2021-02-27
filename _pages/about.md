@@ -37,6 +37,6 @@ Awards
 
 More info
 ======
-I enjoy long cycling journey to watch the landscape as well as collecting stories. In the past, it's super proud to me that I have done two long cycling journey with my patners, which two are 1). Wuhan, Hubei -> Changsha, Hunan, 400km 2). Cycling Qinghai Lake, Qinghai, 400km. 
+I enjoy long cycling journeys to watch the landscape as well as collecting stories. In the past, it's super proud to me that I have done two long cycling journeys with my partners, which two are 1). Wuhan, Hubei -> Changsha, Hunan, 400km 2). Cycling Qinghai Lake, Qinghai, 400km.
 
-I'm always planning to unlock more interesting cycling journey. If you want to be with me, let's explore together.
+I'm always planning to unlock more interesting cycling journeys. If you want to be with me, let's explore together.
