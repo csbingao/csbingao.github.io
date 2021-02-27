@@ -33,4 +33,10 @@ Awards
 - Excellent Student Cadre, Huazhong University of Science and Technology, 2018
 - First-class Academic Scholarship, Huazhong University of Science and Technology, 2017-2020
 - Excellent Graduate, Huazhong University of Science and Technology, 2017
-- National Encouragement Scholarship, Huazhong University of Science and Technology, 2016
+- National Encouragement Scholarship, Ministry of Education of the People's Republic of China, 2016
+
+More info
+======
+I enjoy long cycling journey to watch the landscape as well as collecting stories. In the past, it's super proud to me that I have done two long cycling journey with my patners, which two are 1). Wuhan, Hubei -> Changsha, Hunan, 400km 2). Cycling Qinghai Lake, Qinghai, 400km. 
+
+I'm always planning to unlock more interesting cycling journey. If you want to be with me, let's explore together.
