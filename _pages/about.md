@@ -18,20 +18,19 @@ Publications
 
 Conferences
 ------
-1. **Bin Gao**, Zhi Zhou , Fangming Liu, Fei Xu, "[Winning at the Starting Line: Joint Network Selection and Service Placement for Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/8737543)", in the Proceedings of IEEE INFOCOM, Paris, France, 2019.
+1. Guohao Ying, Xin He, **Bin Gao**, Bo Han, and Xiaowen Chu, "[EAGAN: Efficient Two-stage Evolutionary Architecture Search for GANs](https://arxiv.org/abs/2111.15097)", in the Proceedings of European Conference on Computer Vision (ECCV), Tel Aviv, 2022
+2. **Bin Gao**, Hao-Wei Tee, Alireza Sanaee, Soh Boon Jun, Djordje Jevdjic, "[OS-level Implications of Using DRAM Caches in Memory Disaggregation](https://ieeexplore.ieee.org/document/9804595)", in the Proceedings of IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2022.
+3. **Bin Gao**, Zhi Zhou , Fangming Liu, Fei Xu, "[Winning at the Starting Line: Joint Network Selection and Service Placement for Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/8737543)", in the Proceedings of IEEE International Conference on Computer Communications (INFOCOM), Paris, France, 2019.
+
 
 Journals
 ------
 1. **Bin Gao**, Zhi Zhou, Fangming Liu, Fei Xu, Bo Li, "[An Online Framework for Joint Network Selection and Service Placement in Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/9373980/)", IEEE Transaction on Mobile Computing, 2021.
 2. Kongyang ZHAO, **Bin GAO**, Zhi ZHOU, "[Cost-Effective Task Scheduling for Effective Task Scheduling for Collaborative Cross Collaborative Cross-Edge Analytics](https://res-www.zte.com.cn/mediares/magazine/publication/com_en/article/202102/202102003.pdf)", ZTE Communications, 2021.
 
-Preprint
-------
-1. Guohao Ying, Xin He, **Bin Gao**, Bo Han, and Xiaowen Chu, "EAGAN: Efficient Two-stage Evolutionary Architecture Search for GANs", in [arXiv](https://arxiv.org/abs/2111.15097).
-
 Teaching
 ------
-1. [NUS CS2106 Operating System](https://nusmods.com/modules/CS2106/introduction-to-operating-systems)
+1. [NUS CS2106 Introduction to Operating System](https://nusmods.com/modules/CS2106/introduction-to-operating-systems)
 
 Service
 ------
