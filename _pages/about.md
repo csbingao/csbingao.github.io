@@ -7,16 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm Bin Gao (高彬) from China. I'm a PhD Student of School of Computing (SoC) in National University of Singapore (NUS). I'm working with Prof. [Djordje Jevdjic](https://www.comp.nus.edu.sg/~jevdjic/), Prof. [Jialin Li](https://www.comp.nus.edu.sg/~lijl/), and Prof. [Antoine Kaufmann](https://people.mpi-sws.org/~antoinek/index.html). Before this, I received my bachelor degree and master degree from Huazhong University of Science and Technology (HUST), China in 2017 and 2020, respectively, where I worked with Prof. [Fangming Liu](https://fangmingliu.github.io/).  
+I'm Bin Gao (高彬) from China. I'm a PhD Student of School of Computing (SoC) in National University of Singapore (NUS). I'm working with Prof. [Djordje Jevdjic](https://www.comp.nus.edu.sg/~jevdjic/). Before this, I received my bachelor degree and master degree from Huazhong University of Science and Technology (HUST), China in 2017 and 2020, respectively, where I worked with Prof. [Fangming Liu](https://fangmingliu.github.io/).  
 
 Research Interests
 ======
 Computer architecture/Systems; Networking; Geo-distributed Data Analytics; Mobile Edge Computing.
 
-Publications
+Publications (* indicates the corresponding author)
 ======
 
-Conferences (* indicates the corresponding author)
+Conferences 
 ------
 1. Qingyuan Wang, **Bin Gao\***, Zhi Zhou, Fei Xu, Chenghao Ouyang, "[DAG-Aware Optimization for Geo-Distributed Data Analytics
 ](https://csbingao.github.io)", in the Proceedings of IEEE International Conference on Parallel Processing (ICPP), Salt Lake City, UTAH, USA, 2023.
@@ -43,6 +43,7 @@ Service
 1. SOSP 2021 Student Volunteer 
 2. [EuroSys 2022 AE Committe](https://sysartifacts.github.io/eurosys2022/organizers)
 3. OSDI/ATC 2022 AE Committe
+4. Reviewer for IEEE Transaction on Mobile Computing.
 
 Awards
 ======
@@ -55,9 +56,3 @@ Awards
 - First-class Academic Scholarship, Huazhong University of Science and Technology, 2017-2020
 - Excellent Graduate, Huazhong University of Science and Technology, 2017
 - National Encouragement Scholarship, Ministry of Education of the People's Republic of China, 2016
-
-More info
-======
-I enjoy long cycling journeys to watch the landscape as well as collecting stories. In the past, it's super proud to me that I have done two long cycling journeys with my partners, which two are 1). Wuhan, Hubei -> Changsha, Hunan, 400km 2). Cycling Qinghai Lake, Qinghai, 400km.
-
-I'm always planning to unlock more interesting cycling journeys. If you want to be with me, let's explore together.
