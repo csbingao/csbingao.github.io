@@ -19,10 +19,11 @@ Publications
 
 Conferences 
 ------
-1. Qingyuan Wang, **Bin Gao\***, Zhi Zhou, Fei Xu, Chenghao Ouyang, "[DAG-Aware Optimization for Geo-Distributed Data Analytics
+1. **Bin Gao**, Qingxuan Kang, Hao-Wei Tee, Kyle Timothy Ng Chu, Alireza Sanaee, Djordje Jevdjic, "[numaPTE: Managing Page-Tables and TLBs on NUMA Systems](https://arxiv.org/pdf/2401.15558)", preprint, under review.
+2. Qingyuan Wang, **Bin Gao\***, Zhi Zhou, Fei Xu, Chenghao Ouyang, "[DAG-Aware Optimization for Geo-Distributed Data Analytics
 ](https://csbingao.github.io)", in the Proceedings of IEEE International Conference on Parallel Processing (ICPP), Salt Lake City, UTAH, USA, 2023.
-2. Guohao Ying, Xin He, **Bin Gao**, Bo Han, and Xiaowen Chu, "[EAGAN: Efficient Two-stage Evolutionary Architecture Search for GANs](https://arxiv.org/abs/2111.15097)", in the Proceedings of European Conference on Computer Vision (ECCV), Tel Aviv, 2022
-3. **Bin Gao**, Zhi Zhou, Fangming Liu, Fei Xu, "[Winning at the Starting Line: Joint Network Selection and Service Placement for Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/8737543)", in the Proceedings of IEEE International Conference on Computer Communications (INFOCOM), Paris, France, 2019.
+3. Guohao Ying, Xin He, **Bin Gao**, Bo Han, and Xiaowen Chu, "[EAGAN: Efficient Two-stage Evolutionary Architecture Search for GANs](https://arxiv.org/abs/2111.15097)", in the Proceedings of European Conference on Computer Vision (ECCV), Tel Aviv, 2022
+4. **Bin Gao**, Zhi Zhou, Fangming Liu, Fei Xu, "[Winning at the Starting Line: Joint Network Selection and Service Placement for Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/8737543)", in the Proceedings of IEEE International Conference on Computer Communications (INFOCOM), Paris, France, 2019.
 
 
 Journals
