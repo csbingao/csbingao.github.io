@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm Bin Gao (高彬) from China. I'm a PhD Student of School of Computing (SoC) in National University of Singapore (NUS). I'm working with Prof. [Djordje Jevdjic](https://www.comp.nus.edu.sg/~jevdjic/). Before this, I received my bachelor degree and master degree from Huazhong University of Science and Technology (HUST), China in 2017 and 2020, respectively, where I worked with Prof. [Fangming Liu](https://fangmingliu.github.io/).  
+I'm Bin Gao (高彬) from China. I'm a PhD Student of School of Computing (SoC) in National University of Singapore (NUS). I'm working with Prof. [Weng-fai Wong](https://www.comp.nus.edu.sg/~wongwf/). Before this, I received my bachelor degree and master degree from Huazhong University of Science and Technology (HUST), China in 2017 and 2020, respectively, where I worked with Prof. [Fangming Liu](https://fangmingliu.github.io/).  
 
 Research Interests
 ======
