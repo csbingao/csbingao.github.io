@@ -16,10 +16,14 @@ Computer architecture/Systems; Networking; Geo-distributed Data Analytics; Mobil
 Publications 
 ======
 (* indicates the corresponding author)
-
-Conferences 
+Preprints 
 ------
 1. **Bin Gao**, Qingxuan Kang, Hao-Wei Tee, Kyle Timothy Ng Chu, Alireza Sanaee, Djordje Jevdjic, "[numaPTE: Managing Page-Tables and TLBs on NUMA Systems](https://arxiv.org/pdf/2401.15558)", preprint, under review.
+2. **Bin Gao**, Zhuomin He, Puru Sharma, Qingxuan Kang, Djordje Jevdjic, Junbo Deng, Xingkun Yang, Zhou Yu, Pengfei Zuo, "[AttentionStore: Cost-effective Attention Reuse across Multi-turn Conversations in Large Language Model Serving](https://arxiv.org/abs/2403.19708)", preprint, under review.
+   
+Conferences 
+------
+1. Puru Sharma, Gary Goh Yipeng, **Bin Gao**, Longshen Ou, Dehui Lin, Deepak Sharma, Djordje Jevdjic, "[DNA Storage Toolkit: A Modular End-to-End DNA Data Storage Codec and Simulator](), in the Proceedings of EEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Indianapolis, Indiana, 2024."
 2. Qingyuan Wang, **Bin Gao\***, Zhi Zhou, Fei Xu, Chenghao Ouyang, "[DAG-Aware Optimization for Geo-Distributed Data Analytics
 ](https://csbingao.github.io)", in the Proceedings of IEEE International Conference on Parallel Processing (ICPP), Salt Lake City, UTAH, USA, 2023.
 3. Guohao Ying, Xin He, **Bin Gao**, Bo Han, and Xiaowen Chu, "[EAGAN: Efficient Two-stage Evolutionary Architecture Search for GANs](https://arxiv.org/abs/2111.15097)", in the Proceedings of European Conference on Computer Vision (ECCV), Tel Aviv, 2022
@@ -34,7 +38,7 @@ Journals
 Workshops
 ------
 1. **Bin Gao**, Hao-Wei Tee, Alireza Sanaee, Soh Boon Jun, Djordje Jevdjic, "[OS-level Implications of Using DRAM Caches in Memory Disaggregation](https://ieeexplore.ieee.org/document/9804595)", in the Proceedings of IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2022.
-2. **Bin Gao**, Hejing Li, Jialin Li, and Antoine Kaufmann, "[Improving Disaggregated System Evaluation with Modular End-to-End Simulation](csbingao.github.io)", in Workshop On Resource Disaggregation and Serverless Computing (WORDS), 2022, to appear.
+2. **Bin Gao**, Hejing Li, Jialin Li, and Antoine Kaufmann, "[Improving Disaggregated System Evaluation with Modular End-to-End Simulation](csbingao.github.io)", in Workshop On Resource Disaggregation and Serverless Computing (WORDS), 2022.
 
 Teaching
 ------
