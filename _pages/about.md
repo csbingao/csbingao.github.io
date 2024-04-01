@@ -24,7 +24,7 @@ Preprints
    
 Conferences 
 ------
-1. Puru Sharma, Gary Goh Yipeng, **Bin Gao**, Longshen Ou, Dehui Lin, Deepak Sharma, Djordje Jevdjic, "[DNA Storage Toolkit: A Modular End-to-End DNA Data Storage Codec and Simulator](), in the Proceedings of EEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Indianapolis, Indiana, 2024."
+1. Puru Sharma, Gary Goh Yipeng, **Bin Gao**, Longshen Ou, Dehui Lin, Deepak Sharma, Djordje Jevdjic, "[DNA Storage Toolkit: A Modular End-to-End DNA Data Storage Codec and Simulator](https://csbingao.github.io)", in the Proceedings of EEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Indianapolis, Indiana, 2024."
 2. Qingyuan Wang, **Bin Gao\***, Zhi Zhou, Fei Xu, Chenghao Ouyang, "[DAG-Aware Optimization for Geo-Distributed Data Analytics
 ](https://csbingao.github.io)", in the Proceedings of IEEE International Conference on Parallel Processing (ICPP), Salt Lake City, UTAH, USA, 2023.
 3. Guohao Ying, Xin He, **Bin Gao**, Bo Han, and Xiaowen Chu, "[EAGAN: Efficient Two-stage Evolutionary Architecture Search for GANs](https://arxiv.org/abs/2111.15097)", in the Proceedings of European Conference on Computer Vision (ECCV), Tel Aviv, 2022
