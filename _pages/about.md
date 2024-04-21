@@ -11,7 +11,7 @@ I'm Bin Gao (高彬) from China. I'm a PhD Student of School of Computing (SoC) 
 
 Research Interests
 ======
-Computer architecture/Systems; Networking; Geo-distributed Data Analytics; Mobile Edge Computing.
+Computer Systems; Computer Architecture; LLM Systems; Edge Computing; Geo-distributed Data Analysis
 
 Publications 
 ======
@@ -34,7 +34,7 @@ Conferences
 Journals
 ------
 1. **Bin Gao**, Zhi Zhou, Fangming Liu, Fei Xu, Bo Li, "[An Online Framework for Joint Network Selection and Service Placement in Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/9373980/)", IEEE Transaction on Mobile Computing, 2021.
-2. Kongyang ZHAO, **Bin GAO**, Zhi ZHOU, "[Cost-Effective Task Scheduling for Effective Task Scheduling for Collaborative Cross Collaborative Cross-Edge Analytics](https://res-www.zte.com.cn/mediares/magazine/publication/com_en/article/202102/202102003.pdf)", ZTE Communications, 2021.
+2. Kongyang Zhao, **Bin Gao**, Zhi Zhou, "[Cost-Effective Task Scheduling for Effective Task Scheduling for Collaborative Cross Collaborative Cross-Edge Analytics](https://res-www.zte.com.cn/mediares/magazine/publication/com_en/article/202102/202102003.pdf)", ZTE Communications, 2021.
 
 Workshops
 ------
