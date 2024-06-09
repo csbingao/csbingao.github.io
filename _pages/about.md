@@ -45,12 +45,13 @@ Teaching
 Service
 ------
 1. SOSP 2021 Student Volunteer 
-2. [EuroSys 2022 AE Committe](https://sysartifacts.github.io/eurosys2022/organizers)
-3. OSDI/ATC 2022 AE Committe
+2. [EuroSys 2022 AE Committee](https://sysartifacts.github.io/eurosys2022/organizers)
+3. OSDI/ATC 2022 AE Committee
 4. Reviewer for IEEE Transaction on Mobile Computing.
 
 Awards
 ======
+- USENIX ATC Student Grant, 2024.
 - Silver Prize, "Internet+" Innovation Entrepreneurship Competition, Ministry of Education of the People's Republic of China, 2022. [Click for news.](https://mp.weixin.qq.com/s/CM9UNbcaDsR_I40xeEEjeg)
 - Excellent Graduate, Huazhong University of Science and Technology, 2020
 - National Scholarship, Ministry of Education of the People's Republic of China, 2019
