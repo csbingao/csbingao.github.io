@@ -19,7 +19,7 @@ Publications
 
 Conferences 
 ------
-1. **Bin Gao**, Zhuomin He, Tao Luo, Zhehui Wang, Weng-Fai Wong, Zhi Zhou, "[International Conference on Parallel Processing](https://arxiv.org/abs/2403.19708)", in the Proceedings of International Conference on Parallel Processing (ICPP), Gotland, Sweden, 2024.
+1. **Bin Gao**, Zhuomin He, Tao Luo, Zhehui Wang, Weng-Fai Wong, Zhi Zhou, "[IMI: In-memory Multi-job Inference Acceleration for Large Language Models](https://icpp2024.org/)", in the Proceedings of International Conference on Parallel Processing (ICPP), Gotland, Sweden, 2024.
 1. **Bin Gao**, Zhuomin He, Puru Sharma, Qingxuan Kang, Djordje Jevdjic, Junbo Deng, Xingkun Yang, Zhou Yu, Pengfei Zuo, "[Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention](https://arxiv.org/abs/2403.19708)", in the Proceedings of USENIX Annual Technical Conference (ATC), Santa Clara, CA, US, 2024.
 1. **Bin Gao**, Qingxuan Kang, Hao-Wei Tee, Kyle Timothy Ng Chu, Alireza Sanaee, Djordje Jevdjic, "[Scalable and Effective Page-table and TLB management on NUMA Systems](https://arxiv.org/pdf/2401.15558)", in the Proceedings of USENIX Annual Technical Conference (ATC), Santa Clara, CA, US, 2024.
 1. Puru Sharma, Gary Goh Yipeng, **Bin Gao**, Longshen Ou, Dehui Lin, Deepak Sharma, Djordje Jevdjic, "[DNA Storage Toolkit: A Modular End-to-End DNA Data Storage Codec and Simulator](https://csbingao.github.io)", in the Proceedings of IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Indianapolis, Indiana, 2024.
