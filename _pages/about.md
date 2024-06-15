@@ -19,7 +19,7 @@ Publications
 
 Conferences 
 ------
-1. **Bin Gao**, Zhuomin He, Tao Luo, Zhehui Wang, Weng-Fai Wong, Zhi Zhou, "[IMI: In-memory Multi-job Inference Acceleration for Large Language Models](https://icpp2024.org/)", in the Proceedings of International Conference on Parallel Processing (ICPP), Gotland, Sweden, 2024.
+1. **Bin Gao**, Zhehui Wang, Zhuomin He, Tao Luo, Weng-Fai Wong, Zhi Zhou, "[IMI: In-memory Multi-job Inference Acceleration for Large Language Models](https://icpp2024.org/)", in the Proceedings of International Conference on Parallel Processing (ICPP), Gotland, Sweden, 2024.
 1. **Bin Gao**, Zhuomin He, Puru Sharma, Qingxuan Kang, Djordje Jevdjic, Junbo Deng, Xingkun Yang, Zhou Yu, Pengfei Zuo, "[Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention](https://arxiv.org/abs/2403.19708)", in the Proceedings of USENIX Annual Technical Conference (ATC), Santa Clara, CA, US, 2024.
 1. **Bin Gao**, Qingxuan Kang, Hao-Wei Tee, Kyle Timothy Ng Chu, Alireza Sanaee, Djordje Jevdjic, "[Scalable and Effective Page-table and TLB management on NUMA Systems](https://arxiv.org/pdf/2401.15558)", in the Proceedings of USENIX Annual Technical Conference (ATC), Santa Clara, CA, US, 2024.
 1. Puru Sharma, Gary Goh Yipeng, **Bin Gao**, Longshen Ou, Dehui Lin, Deepak Sharma, Djordje Jevdjic, "[DNA Storage Toolkit: A Modular End-to-End DNA Data Storage Codec and Simulator](https://csbingao.github.io)", in the Proceedings of IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Indianapolis, Indiana, 2024.
@@ -34,8 +34,9 @@ Journals
 1. **Bin Gao**, Zhi Zhou, Fangming Liu, Fei Xu, Bo Li, "[An Online Framework for Joint Network Selection and Service Placement in Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/9373980/)", IEEE Transaction on Mobile Computing, 2021.
 1. Kongyang Zhao, **Bin Gao**, Zhi Zhou, "[Cost-Effective Task Scheduling for Effective Task Scheduling for Collaborative Cross Collaborative Cross-Edge Analytics](https://res-www.zte.com.cn/mediares/magazine/publication/com_en/article/202102/202102003.pdf)", ZTE Communications, 2021.
 
-Workshops
+Workshops and Posters
 ------
+1. Yunkai Liang, **Bin Gao**, Pengfei Zuo, Zhi Zhou, Xu Chen, "[PipeDecode: Efficient LLM Inference using Pipelines within Decoding](https://www.usenix.org/conference/osdi24/call-for-posters)", in the Proceedings of USENIX Symposium on Operating Systems Design and Implementation (OSDI), Santa Clara, CA, US, 2024.
 1. **Bin Gao**, Hao-Wei Tee, Alireza Sanaee, Soh Boon Jun, Djordje Jevdjic, "[OS-level Implications of Using DRAM Caches in Memory Disaggregation](https://ieeexplore.ieee.org/document/9804595)", in the Proceedings of IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2022.
 1. **Bin Gao**, Hejing Li, Jialin Li, and Antoine Kaufmann, "[Improving Disaggregated System Evaluation with Modular End-to-End Simulation](csbingao.github.io)", in Workshop On Resource Disaggregation and Serverless Computing (WORDS), 2022.
 
