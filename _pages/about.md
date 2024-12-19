@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm Bin Gao (高彬) from China. I'm a final year PhD Student of School of Computing (SoC) in National University of Singapore (NUS). I'm working with Prof. [Weng-Fai Wong](https://www.comp.nus.edu.sg/~wongwf/). Before this, I received my bachelor degree and master degree from Huazhong University of Science and Technology (HUST), China in 2017 and 2020, respectively, where I worked with Prof. [Fangming Liu](https://fangmingliu.github.io/).  
+I'm Bin Gao (高彬) from China. I'm a final year PhD Student of School of Computing (SoC) in National University of Singapore (NUS). I'm working with Prof. [Weng-Fai Wong](https://www.comp.nus.edu.sg/~wongwf/). Before this, I received my bachelor degree and master degree from Huazhong University of Science and Technology (HUST), China in 2017 and 2020, respectively.  
 
-<mark><strong><em> I am actively looking for visiting scholar opportunities beginning in late-2024, as well as postdoctoral positions starting in mid-2025. Please feel free to reach out to me! </em></strong></mark>
+<mark><strong><em> I am actively looking for postdoctoral positions starting in mid-2025. Please feel free to reach out to me! </em></strong></mark>
 
 
 Research Interests
@@ -22,6 +22,7 @@ Publications
 
 Conferences 
 ------
+1. Zhuomin He, Yizhen Yao, Pengfei Zuo, **Bin Gao**, Qinya Li, Zhenzhe Zheng, Fan Wu, "[AdaSkip: Adaptive Sublayer Skipping for Accelerating Long-Context LLM Inference](https://aaai.org/conference/aaai/aaai-25/)", in the Proceedings of Annual AAAI Conference on Artificial Intelligence (AAAI), Philadelphia, Pennsylvania, USA, 2025.
 1. **Bin Gao**, Zhehui Wang, Zhuomin He, Tao Luo, Weng-Fai Wong, Zhi Zhou, "[IMI: In-memory Multi-job Inference Acceleration for Large Language Models](https://icpp2024.org/)", in the Proceedings of International Conference on Parallel Processing (ICPP), Gotland, Sweden, 2024.
 1. **Bin Gao**, Zhuomin He, Puru Sharma, Qingxuan Kang, Djordje Jevdjic, Junbo Deng, Xingkun Yang, Zhou Yu, Pengfei Zuo, "[Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention](https://arxiv.org/abs/2403.19708)", in the Proceedings of USENIX Annual Technical Conference (ATC), Santa Clara, CA, US, 2024.
 1. **Bin Gao**, Qingxuan Kang, Hao-Wei Tee, Kyle Timothy Ng Chu, Alireza Sanaee, Djordje Jevdjic, "[Scalable and Effective Page-table and TLB management on NUMA Systems](https://arxiv.org/pdf/2401.15558)", in the Proceedings of USENIX Annual Technical Conference (ATC), Santa Clara, CA, US, 2024.
@@ -49,10 +50,11 @@ Teaching
 
 Service
 ------
+1. EuroSys 2025, shadow committee. 
 1. SOSP 2021 Student Volunteer 
-2. [EuroSys 2022 AE Committee](https://sysartifacts.github.io/eurosys2022/organizers)
-3. OSDI/ATC 2022 AE Committee
-4. Reviewer for IEEE Transaction on Mobile Computing.
+1. [EuroSys 2022 AE Committee](https://sysartifacts.github.io/eurosys2022/organizers)
+1. OSDI/ATC 2022 AE Committee
+1. Reviewer for IEEE Transaction on Mobile Computing.
 
 Awards
 ======
