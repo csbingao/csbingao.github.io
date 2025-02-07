@@ -50,7 +50,7 @@ Teaching
 
 Service
 ------
-1. Student Area Search Committee for NUS SoC Faculty Recruitment.
+1. NUS SoC Faculty Recruitment Student Committee.
 1. EuroSys 2025, shadow committee. 
 1. SOSP 2021 Student Volunteer. 
 1. [EuroSys 2022 AE Committee](https://sysartifacts.github.io/eurosys2022/organizers).
