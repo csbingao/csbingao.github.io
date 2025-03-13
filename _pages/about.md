@@ -22,6 +22,7 @@ Publications
 
 Conferences 
 ------
+1. **Bin Gao**, Zhuomin He, Yizhen Yao, Zhanzhi Lou, Zhi Zhou, Weng-Fai Wong, "[Online Context Caching for Distributed Large Language Models Serving](https://infocom2025.ieee-infocom.org/program/accepted-paper-list-main-conference)", in the Proceedings of IEEE International Conference on Computer Communications (INFOCOM), London, UK, 2025.
 1. Zhuomin He, Yizhen Yao, Pengfei Zuo, **Bin Gao**, Qinya Li, Zhenzhe Zheng, Fan Wu, "[AdaSkip: Adaptive Sublayer Skipping for Accelerating Long-Context LLM Inference](https://aaai.org/conference/aaai/aaai-25/)", in the Proceedings of Annual AAAI Conference on Artificial Intelligence (AAAI), Philadelphia, Pennsylvania, USA, 2025.
 1. **Bin Gao**, Zhehui Wang, Zhuomin He, Tao Luo, Weng-Fai Wong, Zhi Zhou, "[IMI: In-memory Multi-job Inference Acceleration for Large Language Models](https://icpp2024.org/)", in the Proceedings of International Conference on Parallel Processing (ICPP), Gotland, Sweden, 2024.
 1. **Bin Gao**, Zhuomin He, Puru Sharma, Qingxuan Kang, Djordje Jevdjic, Junbo Deng, Xingkun Yang, Zhou Yu, Pengfei Zuo, "[Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention](https://arxiv.org/abs/2403.19708)", in the Proceedings of USENIX Annual Technical Conference (ATC), Santa Clara, CA, US, 2024.
@@ -56,6 +57,7 @@ Service
 1. [EuroSys 2022 AE Committee](https://sysartifacts.github.io/eurosys2022/organizers).
 1. OSDI/ATC 2022 AE Committee.
 1. Reviewer for IEEE Transaction on Mobile Computing.
+1. Reviewer for IEEE Transactions on Services Computing.
 
 Awards
 ======
