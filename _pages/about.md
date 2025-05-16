@@ -9,8 +9,6 @@ redirect_from:
 ---
 I'm Bin Gao (高彬) from China. I'm a final year PhD Student of School of Computing (SoC) at the National University of Singapore (NUS). I'm working with Prof. [Weng-Fai Wong](https://www.comp.nus.edu.sg/~wongwf/). Before this, I received my bachelor degree and master degree from Huazhong University of Science and Technology (HUST), China in 2017 and 2020, respectively.  
 
-<mark><strong><em> I am actively looking for postdoctoral positions starting in mid-2025. Please feel free to reach out to me! </em></strong></mark>
-
 
 Research Interests
 ======
