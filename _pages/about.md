@@ -50,11 +50,12 @@ Teaching
 Service
 ------
 1. NUS SoC Faculty Recruitment Student Committee.
+1. FAST 2026, AE Committee.
 1. EuroSys 2025, shadow committee. 
 1. SOSP 2021 Student Volunteer. 
 1. [EuroSys 2022 AE Committee](https://sysartifacts.github.io/eurosys2022/organizers).
 1. OSDI/ATC 2022 AE Committee.
-1. Reviewer for IEEE Transaction on Mobile Computing.
+1. Reviewer for IEEE Transactions on Mobile Computing.
 1. Reviewer for IEEE Transactions on Services Computing.
 
 Awards
