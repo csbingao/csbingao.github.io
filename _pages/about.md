@@ -61,6 +61,7 @@ Service
 Awards
 ======
 - Research Achievement Award, National University of Singapore, 2025.
+- Chinese Government Award for Outstanding Self-Financed Students Abroad, 2024.
 - USENIX ATC Student Grant, 2024.
 - Silver Prize, "Internet+" Innovation Entrepreneurship Competition, Ministry of Education of the People's Republic of China, 2022. [Click for news.](https://mp.weixin.qq.com/s/CM9UNbcaDsR_I40xeEEjeg)
 - Excellent Graduate, Huazhong University of Science and Technology, 2020.
