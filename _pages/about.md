@@ -12,7 +12,7 @@ I'm Bin Gao (高彬) from China. I'm now a research fellow of School of Computin
 
 Research Interests
 ======
-Computer Systems; Computer Architecture; LLM Systems; Edge Computing; Geo-distributed Data Analysis
+Computer Systems; Computer Architecture; AI Systems; AI Architecture
 
 Publications 
 ======
