@@ -16,7 +16,7 @@ Computer Systems; Computer Architecture; LLM Systems; Edge Computing; Geo-distri
 
 Publications 
 ======
-(* indicates the corresponding author)
+(<sup>✉</sup> indicates the corresponding author)
 
 Conferences 
 ------
