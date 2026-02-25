@@ -63,6 +63,7 @@ Service
 1. OSDI/ATC 2022 AE Committee.
 1. Reviewer for IEEE Transactions on Mobile Computing.
 1. Reviewer for IEEE Transactions on Services Computing.
+1. Reviewer for IEEE Transactions on Distributed and Parallel System.
 
 Awards
 ======
