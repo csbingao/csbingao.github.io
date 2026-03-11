@@ -18,7 +18,7 @@ Publications
 ======
 (<sup>✉</sup> indicates the corresponding author)
 
-1. Wei Li, **Bin Gao<sup>✉</sup>** and Weng-fai Wong, "[Efficient Tensor Program Optimization for GPUs via Accurate Search Space Bounding](www。csbingao.github.io)", IEEE Transactions on Parallel and Distributed Systems, 2026.
+1. Wei Li, **Bin Gao<sup>✉</sup>** and Weng-fai Wong, "[Efficient Tensor Program Optimization for GPUs via Accurate Search Space Bounding](www。csbingao.github.io)", IEEE Transactions on Parallel and Distributed Systems (TPDS), 2026.
 1. Yujie Zhang, **Bin Gao<sup>✉</sup>** and Tulika Mitra, "[SAEM: Stage-Aware Expert Management for Memory-Efficient MoE Inference in Chain-of-Thought Reasoning](https://dac.com/2026/accepted-paper-ids)", in The Chips to the Systems Conferences (DAC), Long Beach, US, 2026.
 1. Dan Chen, Huize Li, Zhaoying Li, Huiying Lan, Xiang Liu, Zerui Li, Dan Wu, **Bin Gao<sup>✉</sup>** and Tulika Mitra, "[RAGNMP: Leveraging Elimination Tree to Accelerate RAG with Near-Memory Processing](https://dac.com/2026/accepted-paper-ids)", in The Chips to the Systems Conferences (DAC), Long Beach, US, 2026.
 1. Beichen Ning, Yina Lv, Tianyu Ren, **Bin Gao**, Xiangyu Yao, Jie Zhang, Qiao Li and Chun Jason Xue, "[WILL: Write Invalidation Skipping for QLC NAND by Leveraging Data Lifespan and Latency Awareness](https://dac.com/2026/accepted-paper-ids)", in The Chips to the Systems Conferences (DAC), Long Beach, US, 2026.
