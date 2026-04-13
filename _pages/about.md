@@ -30,11 +30,10 @@ Publications
 1. **Bin Gao**, Zhuomin He, Puru Sharma, Qingxuan Kang, Djordje Jevdjic, Junbo Deng, Xingkun Yang, Zhou Yu, Pengfei Zuo, "[Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention](https://arxiv.org/abs/2403.19708)", in the Proceedings of USENIX Annual Technical Conference (ATC), Santa Clara, CA, US, 2024.
 1. **Bin Gao**, Qingxuan Kang, Hao-Wei Tee, Kyle Timothy Ng Chu, Alireza Sanaee, Djordje Jevdjic, "[Scalable and Effective Page-table and TLB management on NUMA Systems](https://arxiv.org/pdf/2401.15558)", in the Proceedings of USENIX Annual Technical Conference (ATC), Santa Clara, CA, US, 2024.
 1. Puru Sharma, Gary Goh Yipeng, **Bin Gao**, Longshen Ou, Dehui Lin, Deepak Sharma, Djordje Jevdjic, "[DNA Storage Toolkit: A Modular End-to-End DNA Data Storage Codec and Simulator](https://csbingao.github.io)", in the Proceedings of IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Indianapolis, Indiana, 2024.
-1. Qingyuan Wang, **Bin Gao<sup>✉</sup>**, Zhi Zhou, Fei Xu, Chenghao Ouyang, "[DAG-Aware Optimization for Geo-Distributed Data Analytics
+1. Qingyuan Wang, **Bin Gao<sup>✉</sup>**, Zhi Zhou<sup>✉</sup>, Fei Xu, Chenghao Ouyang, "[DAG-Aware Optimization for Geo-Distributed Data Analytics
 ](https://csbingao.github.io)", in the Proceedings of International Conference on Parallel Processing (ICPP), Salt Lake City, UTAH, USA, 2023.
 1. Guohao Ying, Xin He, **Bin Gao**, Bo Han, and Xiaowen Chu, "[EAGAN: Efficient Two-stage Evolutionary Architecture Search for GANs](https://arxiv.org/abs/2111.15097)", in the Proceedings of European Conference on Computer Vision (ECCV), Tel Aviv, 2022
 1. **Bin Gao**, Zhi Zhou, Fangming Liu, Fei Xu, Bo Li, "[An Online Framework for Joint Network Selection and Service Placement in Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/9373980/)", IEEE Transaction on Mobile Computing, 2021.
-1. Kongyang Zhao, **Bin Gao**, Zhi Zhou, "[Cost-Effective Task Scheduling for Effective Task Scheduling for Collaborative Cross Collaborative Cross-Edge Analytics](https://res-www.zte.com.cn/mediares/magazine/publication/com_en/article/202102/202102003.pdf)", ZTE Communications, 2021.
 1. **Bin Gao**, Zhi Zhou, Fangming Liu, Fei Xu, "[Winning at the Starting Line: Joint Network Selection and Service Placement for Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/8737543)", in the Proceedings of IEEE International Conference on Computer Communications (INFOCOM), Paris, France, 2019.
 
 
