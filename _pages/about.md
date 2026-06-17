@@ -17,6 +17,8 @@ Computer Systems; Computer Architecture; AI Systems; AI Architecture
 Publications 
 ======
 (<sup>✉</sup> indicates the corresponding author)
+1. Zhenyu Bai, Zhanglu Yan, **Bin Gao**, Tulika Mitra and Weng-fai Wong, "[
+SparrowSNN: A Hardware/software Co-design for Energy Efficient Low Power Application](www.csbingao.github.io)", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
 1. Wei Li, **Bin Gao<sup>✉</sup>** and Weng-fai Wong, "[CARBS: Compiler Autotuning via Randomized Biased Search](www.csbingao.github.io)", ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC), 2026.
 1. Wei Li, **Bin Gao<sup>✉</sup>** and Weng-fai Wong, "[Efficient Tensor Program Optimization for GPUs via Accurate Search Space Bounding](www.csbingao.github.io)", IEEE Transactions on Parallel and Distributed Systems (TPDS), 2026.
 1. Yujie Zhang, **Bin Gao<sup>✉</sup>** and Tulika Mitra, "[SAEM: Stage-Aware Expert Management for Memory-Efficient MoE Inference in Chain-of-Thought Reasoning](https://dac.com/2026/accepted-paper-ids)", in The Chips to the Systems Conferences (DAC), Long Beach, US, 2026.
