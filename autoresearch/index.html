@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Research Brain is a provenance-preserving information infrastructure for researchers and scientific AI agents."
+    />
+    <meta name="theme-color" content="#06284b" />
+    <title>Research Brain — Agentic AI for Research</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <header class="site-header">
+      <div class="container nav-wrap">
+        <a class="brand" href="#top" aria-label="Research Brain home">
+          <span class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 36 36">
+              <path d="M11.5 8.5a5 5 0 0 0-4.4 7.4A5.2 5.2 0 0 0 9 25.8a5 5 0 0 0 8.9 1.4V9.8a4.9 4.9 0 0 0-6.4-1.3Z" />
+              <path d="M24.5 8.5a5 5 0 0 1 4.4 7.4 5.2 5.2 0 0 1-1.9 9.9 5 5 0 0 1-8.9 1.4V9.8a4.9 4.9 0 0 1 6.4-1.3Z" />
+              <path d="M10 16.5h4.5M21.5 13.5H26M22 22h5M12 25h3" />
+            </svg>
+          </span>
+          <span>Research Brain</span>
+        </a>
+
+        <button class="menu-button" type="button" aria-expanded="false" aria-controls="site-nav">
+          <span></span><span></span><span></span>
+          <span class="sr-only">Open navigation</span>
+        </button>
+
+        <nav id="site-nav" class="site-nav" aria-label="Main navigation">
+          <a href="#why">Why</a>
+          <a href="#foundation">Foundation</a>
+          <a href="#agent">Scientific agent</a>
+          <a href="#domain-cases">Domain cases</a>
+          <a href="#deployment">Deployment</a>
+          <a class="nav-cta" href="https://github.com/csbingao/autoresearch" target="_blank" rel="noreferrer">GitHub</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main">
+      <section id="top" class="hero">
+        <div class="container hero-grid">
+          <div class="hero-copy reveal">
+            <div class="eyebrow"><span></span>NUS agentic AI research use case</div>
+            <h1>Research Brain</h1>
+            <p class="hero-subtitle">A provenance-preserving information infrastructure for shared and automated research.</p>
+            <p class="hero-summary">
+              Research Brain is an agentic AI infrastructure that helps researchers and scientific agents reuse knowledge from papers, code, experiments, and previous projects. It continuously collects research material, preserves the original evidence, and organizes claims, methods, protocols, negative results, and group experience as shared research memory. Scientific agents can then answer questions, compare methods, check novelty, and run validated tools with traceable evidence and human approval. The goal is to make computer systems research, and later other research disciplines, faster, more reproducible, and easier to hand over across people and projects.
+            </p>
+            <div class="hero-actions">
+              <a class="button button-primary" href="#foundation">See how it works <span aria-hidden="true">→</span></a>
+              <a class="button button-secondary" href="https://github.com/csbingao/autoresearch" target="_blank" rel="noreferrer">View prototype</a>
+            </div>
+            <p class="affiliation">Gao Bin · School of Computing, NUS</p>
+          </div>
+
+          <figure class="hero-map hero-map-image reveal">
+            <img
+              src="./assets/research-brain-overview.png"
+              alt="Research material from papers, code, and experiments flows into Research Brain, which provides grounded access to researchers and scientific AI agents. Scientific AI agents call validated research tools, and traceable results are written back to Research Brain. Raw evidence remains immutable while knowledge remains reviewable."
+              width="1200"
+              height="800"
+              fetchpriority="high"
+            />
+          </figure>
+        </div>
+      </section>
+
+      <section id="why" class="section why-section">
+        <div class="container">
+          <div class="why-intro reveal">
+            <div class="eyebrow"><span></span>The missing substrate</div>
+            <h2>A stronger model cannot repair research information that is missing, damaged, or forgotten.</h2>
+          </div>
+
+          <figure class="substrate-figure reveal">
+            <a href="./assets/missing-research-substrate.png" target="_blank" rel="noreferrer" aria-label="Open the missing research substrate diagram at full size">
+              <img
+                src="./assets/missing-research-substrate.png"
+                alt="A four-column research information lifecycle. Discover, compile, remember, and act each have a corresponding failure and required capability. Coverage gaps, evidence loss, fragmented memory, and unauditable operations lead to unreliable scientific conclusions. Coverage-aware acquisition, provenance-preserving compilation, shared reviewable memory, and auditable tools support a grounded and reproducible agent."
+                width="1600"
+                height="800"
+                loading="lazy"
+              />
+            </a>
+            <figcaption>Tap or click the diagram to inspect it at full size.</figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <section id="foundation" class="section foundation-section">
+        <div class="container">
+          <div class="section-heading reveal">
+            <div class="eyebrow"><span></span>From material to research memory</div>
+            <h2>Prepare research information once. Keep its meaning and provenance intact.</h2>
+            <p>This preparation layer converts discovered material into reusable evidence and maintainable domain knowledge, so later agents do not repeatedly parse the same corpus.</p>
+          </div>
+
+          <figure class="workflow-figure reveal">
+            <a href="./assets/research-brain-workflow.png" target="_blank" rel="noreferrer" aria-label="Open the Research Brain workflow diagram at full size">
+              <img
+                src="./assets/research-brain-workflow.png"
+                alt="Prototype Research Brain workflow. Research sources are discovered and crawled, PDFs and media are extracted, knowledge is constructed in a linked research wiki, and agents access the resulting knowledge for question answering, literature synthesis, comparison, gap finding, and note drafting. Results feed back into continuous discovery."
+                width="2000"
+                height="1125"
+                loading="lazy"
+              />
+            </a>
+            <figcaption>Prototype workflow from the current implementation; tap or click to inspect it at full size.</figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <section id="agent" class="section agent-section">
+        <div class="container">
+          <div class="section-heading section-heading-light reveal">
+            <div class="eyebrow eyebrow-light"><span></span>Building a scientific AI agent</div>
+            <h2>One stable architecture, configured for different research domains.</h2>
+            <p>Computer systems and fluorophore molecular research use the same Research Brain structure; only their domain evidence, knowledge, skills, and validated tools change.</p>
+          </div>
+
+          <figure id="domain-cases" class="agent-architecture-figure reveal">
+            <a href="./assets/scientific-ai-agent.png" target="_blank" rel="noreferrer" aria-label="Open the scientific AI agent architecture diagram at full size">
+              <img
+                src="./assets/scientific-ai-agent.png"
+                alt="A general scientific AI agent architecture built with Research Brain. Research understanding and bounded research workflows use a shared core containing governance, agent, knowledge, and evidence layers connected to validated research tools. Computer systems and fluorophore research are shown as two domain cases configured on the same infrastructure."
+                width="1536"
+                height="1024"
+                loading="lazy"
+              />
+            </a>
+            <figcaption>Tap or click the architecture to inspect it at full size.</figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <section id="deployment" class="section deployment-section">
+        <div class="container wide-container">
+          <div class="section-heading centered reveal">
+            <div class="eyebrow"><span></span>Institutional deployment</div>
+            <h2>One institutional Research Brain, serving multiple research groups and AI services</h2>
+            <p>Public research material is prepared once and reused. Private data and active work remain isolated in authorized group workspaces.</p>
+          </div>
+
+          <figure class="deployment-image-figure reveal">
+            <a href="./assets/institutional-deployment-simple.png" target="_blank" rel="noreferrer" aria-label="Open the institutional deployment diagram at full size">
+              <img
+                src="./assets/institutional-deployment-simple.png"
+                alt="Institutional deployment of Research Brain. Public and internal sources flow into local collection and preparation inside the institutional boundary. A shared Research Brain service feeds group workspaces, which are accessed through governed interfaces by researchers, AI services, and validated tools. Results are written back to group workspaces before reviewed updates to shared knowledge."
+                width="1536"
+                height="1024"
+                loading="lazy"
+              />
+            </a>
+            <figcaption>Tap or click the deployment diagram to inspect it at full size.</figcaption>
+          </figure>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <a class="brand footer-brand" href="#top">
+          <span class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 36 36"><path d="M11.5 8.5a5 5 0 0 0-4.4 7.4A5.2 5.2 0 0 0 9 25.8a5 5 0 0 0 8.9 1.4V9.8a4.9 4.9 0 0 0-6.4-1.3Z" /><path d="M24.5 8.5a5 5 0 0 1 4.4 7.4 5.2 5.2 0 0 1-1.9 9.9 5 5 0 0 1-8.9 1.4V9.8a4.9 4.9 0 0 1 6.4-1.3Z" /></svg>
+          </span>
+          <span>Research Brain</span>
+        </a>
+        <p>Agentic AI for research · School of Computing, National University of Singapore</p>
+        <span>© 2026 Gao Bin</span>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
