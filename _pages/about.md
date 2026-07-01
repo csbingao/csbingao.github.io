@@ -17,6 +17,7 @@ Computer Systems; Computer Architecture; AI Systems; AI Architecture
 Publications 
 ======
 (<sup>✉</sup> indicates the corresponding author)
+1. Jianwen Chen, Yunkai Liang, Bin Gao, Zhi Zhou, Fei Xu, Xu Chen, Deke Guo, "[MIGServe: Layout-Aware Multi-Instance GPU Management for Efficient LLM Serving](https://icpp2026.github.io/)", in the Proceedings of International Conference on Parallel Processing (ICPP), Singapore, 2026.
 1. Zhenyu Bai, Zhanglu Yan, **Bin Gao**, Tulika Mitra and Weng-fai Wong, "[
 SparrowSNN: A Hardware/software Co-design for Energy Efficient Low Power Application](www.csbingao.github.io)", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
 1. Wei Li, **Bin Gao<sup>✉</sup>** and Weng-fai Wong, "[CARBS: Compiler Autotuning via Randomized Biased Search](www.csbingao.github.io)", ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC), 2026.
