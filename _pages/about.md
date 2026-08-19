@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm Bin Gao (高彬) from China. I'm now a research fellow of School of Computing (SoC) at the National University of Singapore (NUS). I'm working with Prof. [Weng-Fai Wong](https://www.comp.nus.edu.sg/~wongwf/) and Prof. [Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/). I got my PhD from National University of Singapore in 2025. Before this, I received my bachelor degree and master degree from Huazhong University of Science and Technology (HUST), China in 2017 and 2020, respectively.  
-
+I'm Bin Gao (高彬) from China. I'm now a research fellow of School of Computing (SoC) at the National University of Singapore (NUS). I'm working with Prof. [Weng-Fai Wong](https://www.comp.nus.edu.sg/~wongwf/) and Prof. [Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/). I got my PhD from National University of Singapore in 2025. Before this, I received my bachelor degree and master degree from Huazhong University of Science and Technology (HUST), China in 2017 and 2020, respectively. My research received Best Paper Nomination at HPDC 2026. 
 
 Research Interests
 ======
