@@ -16,8 +16,9 @@ Computer Systems; Computer Architecture; AI Systems; AI Architecture
 
 Publications 
 ======
-(<sup>✉</sup> indicates the corresponding author)
-1. Jianwen Chen, Yunkai Liang, Bin Gao, Zhi Zhou, Fei Xu, Xu Chen, Deke Guo, "[MIGServe: Layout-Aware Multi-Instance GPU Management for Efficient LLM Serving](https://icpp2026.github.io/)", in the Proceedings of International Conference on Parallel Processing (ICPP), Singapore, 2026.
+(<sup>✉</sup> indicates the corresponding author, \* indicates the co-first author.)
+1. Junlong Zhu\*, **Bin Gao**\*, Beichen Ning, Xiangyu Yao, Sha Liao, Lihui Feng, Chengyun Wu, Qiao Li, Jason Xue, "[NPC: Neighbor Position Co-Aware Read Voltage Calibration for Reliable 3D NAND Flash](https://csbingao.github.io/)", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
+1. Jianwen Chen, Yunkai Liang, **Bin Gao**, Zhi Zhou, Fei Xu, Xu Chen, Deke Guo, "[MIGServe: Layout-Aware Multi-Instance GPU Management for Efficient LLM Serving](https://icpp2026.github.io/)", in the Proceedings of International Conference on Parallel Processing (ICPP), Singapore, 2026.
 1. Zhenyu Bai, Zhanglu Yan, **Bin Gao**, Tulika Mitra and Weng-fai Wong, "[
 SparrowSNN: A Hardware/software Co-design for Energy Efficient Low Power Application](www.csbingao.github.io)", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
 1. Wei Li, **Bin Gao<sup>✉</sup>** and Weng-fai Wong, "[CARBS: Compiler Autotuning via Randomized Biased Search](https://hpdc.sci.utah.edu/2026/program.html)", ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC), 2026. **🏆 Best Paper Nominee**
