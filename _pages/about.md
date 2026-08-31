@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm Bin Gao (高彬) from China. I'm now a research fellow of School of Computing (SoC) at the National University of Singapore (NUS). I'm working with Prof. [Weng-Fai Wong](https://www.comp.nus.edu.sg/~wongwf/) and Prof. [Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/). I got my PhD from National University of Singapore in 2025. Before this, I received my bachelor degree and master degree from Huazhong University of Science and Technology (HUST), China in 2017 and 2020, respectively. My research received Best Paper Nomination at HPDC 2026. 
+I'm Bin Gao (高彬) from China. I'm now a research fellow of School of Computing (SoC) at the National University of Singapore (NUS). I'm working with Prof. [Weng-Fai Wong](https://www.comp.nus.edu.sg/~wongwf/) and Prof. [Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/). I got my PhD from National University of Singapore in 2025. Before this, I received my bachelor degree and master degree from Huazhong University of Science and Technology (HUST), China in 2017 and 2020, respectively. My research received Best Paper Candidate at HPDC 2026. 
 
 Research Interests
 ======
@@ -16,6 +16,7 @@ Computer Systems; Computer Architecture; AI Systems; AI Architecture
 Publications 
 ======
 (<sup>✉</sup> indicates the corresponding author, \* indicates the co-first author.)
+1. Zhuoyan Bai\*, **Bin Gao**\*, Fei Xu, Hanyu Zhao, Zhi Zhou, Weng-Fai Wong, "[FairCache: Demystifying Cache-Induced Unfairness in Multi-Tenant Large Language Model Serving](www.csbingao.github.io)", IEEE Transactions on Parallel and Distributed Systems (TPDS), 2026.
 1. Junlong Zhu\*, **Bin Gao**\*, Beichen Ning, Xiangyu Yao, Sha Liao, Lihui Feng, Chengyun Wu, Qiao Li, Jason Xue, "[NPC: Neighbor Position Co-Aware Read Voltage Calibration for Reliable 3D NAND Flash](https://csbingao.github.io/)", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
 1. Jianwen Chen, Yunkai Liang, **Bin Gao**, Zhi Zhou, Fei Xu, Xu Chen, Deke Guo, "[MIGServe: Layout-Aware Multi-Instance GPU Management for Efficient LLM Serving](https://icpp2026.github.io/)", in the Proceedings of International Conference on Parallel Processing (ICPP), Singapore, 2026.
 1. Zhenyu Bai, Zhanglu Yan, **Bin Gao**, Tulika Mitra and Weng-fai Wong, "[
@@ -66,6 +67,7 @@ Service
 
 Awards
 ======
+- Best Paper Candidate, ACM HPDC 2026.
 - Research Achievement Award, National University of Singapore, 2025.
 - Chinese Government Award for Outstanding Self-Financed Students Abroad, 2024.
 - USENIX ATC Student Grant, 2024.
