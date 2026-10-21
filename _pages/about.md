@@ -41,6 +41,11 @@ SparrowSNN: A Hardware/software Co-design for Energy Efficient Low Power Applica
 1. **Bin Gao**, Zhi Zhou, Fangming Liu, Fei Xu, "[Winning at the Starting Line: Joint Network Selection and Service Placement for Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/8737543)", in the Proceedings of IEEE International Conference on Computer Communications (INFOCOM), Paris, France, 2019.
 
 
+Preprints
+======
+1. **Bin Gao**, Anuj Gautam, Aritra Bagchi, Yunkai Liang, Wentao Li, Ronghui Zhu, Zhi Zhou, Yancan Mao, Xiao Yan, Xin He, Qingyun Zou, Wenshuo Yue, Dan Chen, Zhanglu Yan, Fei Xu, Huize Li, Weijie Wang, Tao Ouyang, Tulika Mitra, "[Physical AI: A Survey of Models, Learning, Systems, and Open Challenges](https://arxiv.org/abs/2610.21171)", arXiv preprint arXiv:2610.21171, 2026.
+1. Zou Qingyun, **Bin Gao**, Wenju Zhao, Weng-Fai Wong, Bingsheng He, Tulika Mitra, "[ActTune: Action-Aware Precision and GPU Operating-Point Adaptation for Energy-Efficient Vision-Language-Action Inference](https://arxiv.org/abs/2610.08444)", arXiv preprint arXiv:2610.08444, 2026.
+1. Zou Qingyun, **Bin Gao**, Zhuobin Huang, Weng-Fai Wong, Tulika Mitra, Bingsheng He, "[ECO: Energy-Oriented Configuration Optimization for Attention FFN Disaggregated LLM Serving](https://arxiv.org/abs/2610.08373)", arXiv preprint arXiv:2610.08373, 2026.
 
 Workshops and Posters
 ------
@@ -57,16 +62,15 @@ Service
 1. NUS SoC Faculty Recruitment Student Committee.
 1. AAAI 2026, Program Committee.
 1. FAST 2026, AE Committee.
-1. EuroSys 2025, shadow committee. 
+1. EuroSys 2025/2026, shadow committee. 
 1. SOSP 2021 Student Volunteer. 
 1. [EuroSys 2022 AE Committee](https://sysartifacts.github.io/eurosys2022/organizers).
 1. OSDI/ATC 2022 AE Committee.
-1. Reviewer for IEEE Transactions on Mobile Computing.
-1. Reviewer for IEEE Transactions on Services Computing.
-1. Reviewer for IEEE Transactions on Distributed and Parallel System.
+1. Reviewer for IEEE Transactions on Mobile Computing, IEEE Transactions on Services Computing, Transactions on Distributed and Parallel System, Transactions on Computers.
 
 Awards
 ======
+- HACC Outstanding Researcher Awards, AMD, 2026​
 - Best Paper Candidate, ACM HPDC 2026.
 - Research Achievement Award, National University of Singapore, 2025.
 - Chinese Government Award for Outstanding Self-Financed Students Abroad, 2024.
