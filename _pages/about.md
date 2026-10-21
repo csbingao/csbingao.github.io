@@ -7,12 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm Bin Gao (高彬) from China. I'm now a research fellow of School of Computing (SoC) at the National University of Singapore (NUS). I'm working with Prof. [Weng-Fai Wong](https://www.comp.nus.edu.sg/~wongwf/) and Prof. [Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/). I got my PhD from National University of Singapore in 2025. Before this, I received my bachelor degree and master degree from Huazhong University of Science and Technology (HUST), China in 2017 and 2020, respectively. My research received Best Paper Candidate at HPDC 2026. 
+I'm Bin Gao (高彬) from China. I'm now a research fellow of School of Computing (SoC) at the National University of Singapore (NUS). I'm working with Prof. [Weng-Fai Wong](https://www.comp.nus.edu.sg/~wongwf/) and Prof. [Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/). I got my PhD from National University of Singapore in 2025. Before this, I received my bachelor degree and master degree from Huazhong University of Science and Technology (HUST), China in 2017 and 2020, respectively. My research has been recognized with the **AMD HACC Outstanding Researcher Award (2026)**, **ACM HPDC Best Paper Nomination (2026)**, and **NUS Research Achievement Award (2025)**.
 
 Research Interests
 ======
 Computer Systems; Computer Architecture; AI Systems; AI Architecture
 
+Preprints
+======
+1. **Bin Gao**, Anuj Gautam, Aritra Bagchi, Yunkai Liang, Wentao Li, Ronghui Zhu, Zhi Zhou, Yancan Mao, Xiao Yan, Xin He, Qingyun Zou, Wenshuo Yue, Dan Chen, Zhanglu Yan, Fei Xu, Huize Li, Weijie Wang, Tao Ouyang, Tulika Mitra, "[Physical AI: A Survey of Models, Learning, Systems, and Open Challenges](https://arxiv.org/abs/2610.21171)", arXiv preprint arXiv:2610.21171, 2026.
+1. Zou Qingyun, **Bin Gao**, Wenju Zhao, Weng-Fai Wong, Bingsheng He, Tulika Mitra, "[ActTune: Action-Aware Precision and GPU Operating-Point Adaptation for Energy-Efficient Vision-Language-Action Inference](https://arxiv.org/abs/2610.08444)", arXiv preprint arXiv:2610.08444, 2026.
+1. Zou Qingyun, **Bin Gao**, Zhuobin Huang, Weng-Fai Wong, Tulika Mitra, Bingsheng He, "[ECO: Energy-Oriented Configuration Optimization for Attention FFN Disaggregated LLM Serving](https://arxiv.org/abs/2610.08373)", arXiv preprint arXiv:2610.08373, 2026.
+   
 Publications 
 ======
 (<sup>✉</sup> indicates the corresponding author, \* indicates the co-first author.)
@@ -41,11 +47,7 @@ SparrowSNN: A Hardware/software Co-design for Energy Efficient Low Power Applica
 1. **Bin Gao**, Zhi Zhou, Fangming Liu, Fei Xu, "[Winning at the Starting Line: Joint Network Selection and Service Placement for Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/8737543)", in the Proceedings of IEEE International Conference on Computer Communications (INFOCOM), Paris, France, 2019.
 
 
-Preprints
-======
-1. **Bin Gao**, Anuj Gautam, Aritra Bagchi, Yunkai Liang, Wentao Li, Ronghui Zhu, Zhi Zhou, Yancan Mao, Xiao Yan, Xin He, Qingyun Zou, Wenshuo Yue, Dan Chen, Zhanglu Yan, Fei Xu, Huize Li, Weijie Wang, Tao Ouyang, Tulika Mitra, "[Physical AI: A Survey of Models, Learning, Systems, and Open Challenges](https://arxiv.org/abs/2610.21171)", arXiv preprint arXiv:2610.21171, 2026.
-1. Zou Qingyun, **Bin Gao**, Wenju Zhao, Weng-Fai Wong, Bingsheng He, Tulika Mitra, "[ActTune: Action-Aware Precision and GPU Operating-Point Adaptation for Energy-Efficient Vision-Language-Action Inference](https://arxiv.org/abs/2610.08444)", arXiv preprint arXiv:2610.08444, 2026.
-1. Zou Qingyun, **Bin Gao**, Zhuobin Huang, Weng-Fai Wong, Tulika Mitra, Bingsheng He, "[ECO: Energy-Oriented Configuration Optimization for Attention FFN Disaggregated LLM Serving](https://arxiv.org/abs/2610.08373)", arXiv preprint arXiv:2610.08373, 2026.
+
 
 Workshops and Posters
 ------
