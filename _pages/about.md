@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm Bin Gao (高彬) from China. I'm now a research fellow of School of Computing (SoC) at the National University of Singapore (NUS). I'm working with Prof. [Weng-Fai Wong](https://www.comp.nus.edu.sg/~wongwf/) and Prof. [Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/). I got my PhD from National University of Singapore in 2025. Before this, I received my bachelor degree and master degree from Huazhong University of Science and Technology (HUST), China in 2017 and 2020, respectively. My research has been recognized with the **AMD HACC Outstanding Researcher Award (2026)**, **ACM HPDC Best Paper Nomination (2026)**, and **NUS Research Achievement Award (2025)**.
+I'm Bin Gao (高彬) from China. I'm now a research fellow of School of Computing (SoC) at the National University of Singapore (NUS). I'm working with Prof. [Weng-Fai Wong](https://www.comp.nus.edu.sg/~wongwf/) and Prof. [Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/). I got my PhD from National University of Singapore in 2025. Before this, I received my bachelor degree and master degree from Huazhong University of Science and Technology (HUST), China in 2017 and 2020, respectively. My research has been recognized with the AMD HACC Outstanding Researcher Award (2026), ACM HPDC Best Paper Nomination (2026), and NUS Research Achievement Award (2025).
 
 Research Interests
 ======
