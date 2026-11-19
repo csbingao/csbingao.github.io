@@ -15,10 +15,13 @@ Computer Systems; Computer Architecture; AI Systems; AI Architecture
 
 Preprints
 ======
+1. Aritra Bagchi, **Bin Gao**, James Spall, Jakub Pietrak, Weng-Fai Wong, Tulika Mitra, "[Rethinking KV Caching for LLM Decode: Free-Space Optical KV Regeneration for Reduction of Memory Traffic](https://arxiv.org/abs/2611.19279)", arXiv preprint arXiv:2611.19279, 2026.
+1. Aditya Anirudh Jonnalagadda, Rohan Juneja, Pranav Dangi, Agasthi Haputhanthri, Wenshuo Yue, Aritra Bagchi, **Bin Gao**, Anurag Agrawal, Tulika Mitra, "[SPLASH: Co-Designing Flash-Aware Sparse Attention with a Virtualized HBM-HBF Hierarchy](https://arxiv.org/abs/2609.23816)", arXiv preprint arXiv:2609.23816, 2026.
 1. **Bin Gao**, Anuj Gautam, Aritra Bagchi, Yunkai Liang, Wentao Li, Ronghui Zhu, Zhi Zhou, Yancan Mao, Xiao Yan, Xin He, Qingyun Zou, Wenshuo Yue, Dan Chen, Zhanglu Yan, Fei Xu, Huize Li, Weijie Wang, Tao Ouyang, Tulika Mitra, "[Physical AI: A Survey of Models, Learning, Systems, and Open Challenges](https://arxiv.org/abs/2610.21171)", arXiv preprint arXiv:2610.21171, 2026.
 1. Zou Qingyun, **Bin Gao**, Wenju Zhao, Weng-Fai Wong, Bingsheng He, Tulika Mitra, "[ActTune: Action-Aware Precision and GPU Operating-Point Adaptation for Energy-Efficient Vision-Language-Action Inference](https://arxiv.org/abs/2610.08444)", arXiv preprint arXiv:2610.08444, 2026.
 1. Zou Qingyun, **Bin Gao**, Zhuobin Huang, Weng-Fai Wong, Tulika Mitra, Bingsheng He, "[ECO: Energy-Oriented Configuration Optimization for Attention FFN Disaggregated LLM Serving](https://arxiv.org/abs/2610.08373)", arXiv preprint arXiv:2610.08373, 2026.
-   
+
+
 Publications 
 ======
 (<sup>✉</sup> indicates the corresponding author, \* indicates the co-first author.)
